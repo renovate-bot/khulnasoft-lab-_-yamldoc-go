@@ -1,6 +1,6 @@
 module github.com/khulnasoft-labs/yamldoc-go
 
-go 1.20
+go 1.18
 
 require (
 	github.com/dave/dst v0.27.2
