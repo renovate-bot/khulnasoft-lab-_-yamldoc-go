@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/khulnasoft-labs/yamldoc-go/encoder"
+	"github.com/khulnasoft-lab/yamldoc-go/encoder"
 )
 
 var (

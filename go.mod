@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/yamldoc-go
+module github.com/khulnasoft-lab/yamldoc-go
 
 go 1.18
 
